@@ -1,5 +1,5 @@
 ## 💬 Worked language for me
 
 - Swift / Objective-C
--⁣⁡⁠ ⁢⁣⁡C / C++ / Rust
+- C / C++ / Rust
 - ⁢⁣⁡TypeScript / JavaScript
